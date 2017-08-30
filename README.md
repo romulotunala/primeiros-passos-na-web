@@ -10,7 +10,7 @@ São idealizadas, planejadas e executadas por pessoas que sabem que a informaç�
 
 Todo o conteúdo do curso possui uma linguagem clara. As aulas são pensadas gradativamente, com base em como os alunos de cada turma se sentem, de forma que cada aula, resumo, ou outro material seja realmente empático. O Vai na Web foi criado pelo compromisso de revelar as pessoas, ideias e dons incríveis que ficaram escondidos pelas barreiras da falta de oportunidade.
 
-As aulas do módulo Primeiros passos na Web foram criadas para levar jovens ao início de uma incrível e alucinante jornada na criação de páginas e aplicações para web. :rocket:
+As aulas do módulo Primeiros Passos na Web foram criadas para levar jovens ao início de uma incrível e alucinante jornada na criação de páginas e aplicações para web. :rocket:
 
 ### Aula 01 - [Olá Web, meu espaço no mundo](aulas/aula01/aula.md)
 
@@ -26,7 +26,7 @@ As aulas do módulo Primeiros passos na Web foram criadas para levar jovens ao i
 **Ferramentas e materiais de apoio:** [scratchpad](http://scratchpad.io/vainaweb), [gitbook](https://vainaweb.gitbooks.io/primeiros-passos-web/), [slides](https://slides.com/vainaweb/primeiros-passos-na-web-02), [resumo](aulas/aula02/resumo.md).<br>
 **Duração:** 3 horas.
 
-### Aula 03 - [Introdução ao HTML e CSS](aulas/aula03/aula.md)
+### Aula 03 - [Introdução ao HTML e CSS](aulas/aula03/aula.md)git 
 
 **Objetivos:** Principais fundamentos da HTML, sua sintaxe básica e como HTML e CSS funcionam. Juntos vamos estruturar uma página em HTML, adicionar conteúdo, e estilizar alguns elementos com CSS.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
